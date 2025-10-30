@@ -1,3 +1,3 @@
-# WIA1007-Tutorial3
+# WIA1007
 
-This repo is for submitting WIA1007 - Tutorial 3
+repo for course WIA1007
